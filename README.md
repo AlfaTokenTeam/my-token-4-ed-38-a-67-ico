@@ -1,2 +1,11 @@
-# my-token-4-ed-38-a-67-ico
-My Token 4ED38A67 ICO Smart Contract
+# My Token 4ED38A67 ICO Smart Contract
+
+## Common
+
+This is an implementation of the Ethereum ERC20 smart-contract is used by project My Token 4ED38A67
+
+<b>Plugins / 3rd party tools:</b>
+
+[https://github.com/OpenZeppelin/zeppelin-solidity/](https://github.com/OpenZeppelin/zeppelin-solidity/)
+
+[https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
